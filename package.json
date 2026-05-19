@@ -1,0 +1,23 @@
+{
+  "name": "stoidev19a-github-io",
+  "version": "1.0.0",
+  "description": "Personal blog for game development updates and projects",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stoqncostov-creator/Stoidev19A.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stoqncostov-creator/Stoidev19A.github.io/issues"
+  },
+  "homepage": "https://github.com/stoqncostov-creator/Stoidev19A.github.io#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
